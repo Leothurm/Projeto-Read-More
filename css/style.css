@@ -26,6 +26,7 @@ body{
     text-align: justify;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.389);
     position: relative;
+    margin: 50px 0;
 }
 
 /*ESTILIZAÇÃO DA ABA SUPERIOR DIREITA -- OBS: A POSITION DO CARD TEM Q SER RELATIVE E A DO BEFORE ABSOLUTE*/
